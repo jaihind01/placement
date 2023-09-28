@@ -1,4 +1,13 @@
 # Placement-cell-Project
+🔥
+👑
+🎆
+💣
+🧨
+🌾
+🎡
+🎢
+#
 Placement Cell Project
 Overview
 The Placement Cell Project is a web-based application designed to streamline and automate the process of managing job placements and internships within an educational institution. It aims to simplify tasks related to job posting, student registrations, scheduling interviews, and tracking placement progress.
